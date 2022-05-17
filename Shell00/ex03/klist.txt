@@ -1,0 +1,5 @@
+Credentials cache: API:8A0F398F-BBB7-4EC2-95A6-A1789F62514A
+        Principal: vserrao-@42LISBOA.COM
+
+  Issued                Expires               Principal
+Sep  7 20:25:38 2021  Sep  8 06:25:33 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
