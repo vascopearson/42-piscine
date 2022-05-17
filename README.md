@@ -14,4 +14,4 @@ You can learn more about 42 and the piscine experience [**here**](https://42.fr/
 
 ## Subjects
 
-The subjects of the projects I completed during the Piscine are all in [**this**](https://www.42lisboa.com/en/) directory.
+The subjects of the projects I completed during the Piscine are all in [**this**](https://github.com/vascopearson/42-piscine/tree/master/Subjects) directory.
